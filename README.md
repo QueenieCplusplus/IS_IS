@@ -14,3 +14,7 @@ It uses a metric wiht a max path value of 1024. It is intended to measure the ca
               Higer Value indicates Lower Capacity.
               
 Any single link can have a max value of 64. IS-IS calculates path values by sum up links values. In this way, it helps to check the shortest-path algorithm is executed effectively and its metrics provide the granularity to support diversified link types.
+
+# Apply to Cisco Router
+
+Their interface's default metric is 10.
