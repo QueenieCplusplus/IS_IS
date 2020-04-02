@@ -7,7 +7,7 @@ It can route IP packets and route CNLP, conectionless network protocol packets. 
 
 It is commonly used in ISP network, but merely to be seen in Enterprise network.
 
-# Definition
+# Definition of Metrics
 
 It uses a metric wiht a max path value of 1024. It is intended to measure the capacity of circuit of traffic, such as it thruput in bps.
 
@@ -20,3 +20,5 @@ Any single link can have a max value of 64. IS-IS calculates path values by sum 
 Their interface's default metric is 10. Thus Administrator shall config the value.
 
            Small Value proofs insufficient to Large Network(High Bandwidth)
+
+This is whay Cisco uses "wide metrics" instead now.
