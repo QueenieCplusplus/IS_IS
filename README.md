@@ -10,3 +10,7 @@ It is commonly used in ISP network, but merely to be seen in Enterprise network.
 # Definition
 
 It uses a metric wiht a max path value of 1024. It is intended to measure the capacity of circuit of traffic, such as it thruput in bps.
+
+              Higer Value indicates Lower Capacity.
+              
+Any single link can have a max value of 64. IS-IS calculates path values by sum up links values.
