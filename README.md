@@ -21,4 +21,4 @@ Their interface's default metric is 10. Thus Administrator shall config the valu
 
            Small Value proofs insufficient to Large Network(High Bandwidth)
 
-This is why Cisco uses "wide metrics" instead now.
+This is why Cisco uses "wide metrics" instead now. It provides Link Value with max val of 2e24, and total path metric of 2e32.
