@@ -17,4 +17,6 @@ Any single link can have a max value of 64. IS-IS calculates path values by sum 
 
 # Apply to Cisco Router
 
-Their interface's default metric is 10.
+Their interface's default metric is 10. Thus Administrator shall config the value.
+
+             Small Value proofs insufficient to Large Network 
