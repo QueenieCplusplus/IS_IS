@@ -1,5 +1,5 @@
 # IS_IS
-relative to OSPF
+relative to OSPF, IS-IS is included in Link-State Advertisement (鏈路狀態通告)
 
 IS-IS is ISO Dynamic Routing Spec, it is a link-state routing protocol that floods link-state info building topology thru network.
 
